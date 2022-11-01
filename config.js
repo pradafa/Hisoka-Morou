@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Dafa.
+   * Contact Me on wa.me/6289514653159
+   * '-'
 */
 
 const fs = require('fs')
@@ -18,11 +18,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62882021539951']
-global.premium = ['62882021539951']
-global.packname = 'Hisoka Morrow'
-global.author = 'WhatsApp Bot'
-global.sessionName = 'hisoka'
+global.owner = ['6289514653159']
+global.premium = ['6289514653159']
+global.packname = 'dafaMv'
+global.author = 'faa Bot'
+global.sessionName = 'dafa'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
